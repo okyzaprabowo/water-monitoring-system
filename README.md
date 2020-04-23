@@ -1,6 +1,6 @@
-# laravel-crud
-Basic CRUD Operation with Laravel and AdminLTE in Single Page
-
+# Water Monitoring System
+This repo shows a prototype of Water Monitoring System. The data come from OpenROV.
+ 
 ## What's this repo about
 
 Simply, it's a basic create, read, update and delete operation with Laravel 5.5 and AdminLTE. Plus, it's like single page application, 
@@ -30,7 +30,7 @@ Run ` composer install ` <br>
 Then ` npm install ` <br>
 and ` php artisan migrate `
 
-Now you are done. 
+Copy .env.example and change the configs with your own. Now you are done. 
 <br>
 
 ` php artisan serve ` and open the project on the browser. 
